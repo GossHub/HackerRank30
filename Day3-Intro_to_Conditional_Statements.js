@@ -47,6 +47,7 @@ function classifyNumbers(n) {
     }
 }
 
+
 function main() {
     const N = parseInt(readLine(), 10);
     classifyNumbers(N);
