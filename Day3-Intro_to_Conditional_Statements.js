@@ -34,7 +34,6 @@ function classifyNumbers(n) {
 }
 */
 
-
 //Solution 2
 function classifyNumbers(n) {
     if (n%2 === 1) {
